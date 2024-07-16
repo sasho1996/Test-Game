@@ -1,0 +1,530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\healthindicator\\healthbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\healthindicator\\healthbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\healthindicator\\healthbarview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\healthindicator\\healthbarview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\healthindicator\\healthbarmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\healthindicator\\healthbarmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\gun\\gunview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\gun\\gunview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\gun\\gunmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\gun\\gunmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\gun\\guncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\gun\\guncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\enemy\\enemyview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\enemy\\enemyview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\enemy\\enemymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\enemy\\enemymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\enemy\\enemyinfoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\enemy\\enemyinfoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\enemy\\enemyinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\enemy\\enemyinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\enemy\\enemyinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\enemy\\enemyinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\assets\\scriptes\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\display\\displayview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\display\\displayview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\display\\displaymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\display\\displaymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\display\\displaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\display\\displaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\bullet\\bulletview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\bullet\\bulletview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\bullet\\bulletmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\bullet\\bulletmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\bullet\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\bullet\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\assets\\scriptes\\bonnus\\viewbonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\bonnus\\viewbonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\assets\\scriptes\\bonnus\\panelbonuspropertyview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\bonnus\\panelbonuspropertyview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\bonnus\\panelbonuspropertymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\bonnus\\panelbonuspropertymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\assets\\scriptes\\bonnus\\panelbonuspropertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\bonnus\\panelbonuspropertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\bonnus\\modelbonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\bonnus\\modelbonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\bonnus\\controllerbonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\bonnus\\controllerbonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\bonnus\\bonuspanelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\bonnus\\bonuspanelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\bonnus\\bonuspanelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\bonnus\\bonuspanelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\assets\\scriptes\\bonnus\\bonuspanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\bonnus\\bonuspanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\bonnus\\bonusitemview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\bonnus\\bonusitemview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\bonnus\\bonusitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\bonnus\\bonusitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|c:\\users\\sasho\\onedrive\\desktop\\unity\\bad2bad\\assets\\scriptes\\bonnus\\bonusitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51E0BC-8315-154B-518D-3F25937FB38E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\bonnus\\bonusitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HealthBarView.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\HealthIndicator\\HealthBarView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\HealthIndicator\\HealthBarView.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\HealthIndicator\\HealthBarView.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\HealthIndicator\\HealthBarView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:44:31.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HealthBarModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\HealthIndicator\\HealthBarModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\HealthIndicator\\HealthBarModel.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\HealthIndicator\\HealthBarModel.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\HealthIndicator\\HealthBarModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:44:29.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthBarController.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\HealthIndicator\\HealthBarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\HealthIndicator\\HealthBarController.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\HealthIndicator\\HealthBarController.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\HealthIndicator\\HealthBarController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:44:24.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GunView.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Gun\\GunView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Gun\\GunView.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Gun\\GunView.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Gun\\GunView.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:44:21.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GunModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Gun\\GunModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Gun\\GunModel.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Gun\\GunModel.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Gun\\GunModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:44:19.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GunController.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Gun\\GunController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Gun\\GunController.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Gun\\GunController.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Gun\\GunController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:44:09.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyView.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Enemy\\EnemyView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Enemy\\EnemyView.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Enemy\\EnemyView.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Enemy\\EnemyView.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:44:07.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Enemy\\EnemyModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Enemy\\EnemyModel.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Enemy\\EnemyModel.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Enemy\\EnemyModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:44:03.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyInfoView.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Enemy\\EnemyInfoView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Enemy\\EnemyInfoView.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Enemy\\EnemyInfoView.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Enemy\\EnemyInfoView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:44:00.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyInfoModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Enemy\\EnemyInfoModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Enemy\\EnemyInfoModel.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Enemy\\EnemyInfoModel.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Enemy\\EnemyInfoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:43:55.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Enemy\\EnemyInfoController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Enemy\\EnemyInfoController.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Enemy\\EnemyInfoController.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Enemy\\EnemyInfoController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:43:51.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DisplayView.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Display\\DisplayView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Display\\DisplayView.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Display\\DisplayView.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Display\\DisplayView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:43:32.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DisplayModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Display\\DisplayModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Display\\DisplayModel.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Display\\DisplayModel.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Display\\DisplayModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:43:30.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DisplayController.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Display\\DisplayController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Display\\DisplayController.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Display\\DisplayController.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Display\\DisplayController.cs",
+              "ViewState": "AQIAADIBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:43:19.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BulletView.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bullet\\BulletView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Bullet\\BulletView.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bullet\\BulletView.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Bullet\\BulletView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:43:17.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BulletModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bullet\\BulletModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Bullet\\BulletModel.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bullet\\BulletModel.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Bullet\\BulletModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:43:15.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BulletController.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bullet\\BulletController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Bullet\\BulletController.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bullet\\BulletController.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Bullet\\BulletController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:43:09.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PanelBonusPropertyModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\PanelBonusPropertyModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Bonnus\\PanelBonusPropertyModel.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\PanelBonusPropertyModel.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Bonnus\\PanelBonusPropertyModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:42:57.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ModelBonus.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\ModelBonus.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Bonnus\\ModelBonus.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\ModelBonus.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Bonnus\\ModelBonus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:42:44.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ControllerBonus.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\ControllerBonus.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Bonnus\\ControllerBonus.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\ControllerBonus.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Bonnus\\ControllerBonus.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:42:39.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BonusPanelView.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\BonusPanelView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Bonnus\\BonusPanelView.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\BonusPanelView.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Bonnus\\BonusPanelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:42:32.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BonusPanelModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\BonusPanelModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Bonnus\\BonusPanelModel.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\BonusPanelModel.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Bonnus\\BonusPanelModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:42:12.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BonusItemView.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\BonusItemView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Bonnus\\BonusItemView.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\BonusItemView.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Bonnus\\BonusItemView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:40:37.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BonusItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\BonusItemModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Bonnus\\BonusItemModel.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\BonusItemModel.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Bonnus\\BonusItemModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:40:26.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BonusItemController.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\BonusItemController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Bonnus\\BonusItemController.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\BonusItemController.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Bonnus\\BonusItemController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:38:59.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PanelBonusPropertyView.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\PanelBonusPropertyView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Bonnus\\PanelBonusPropertyView.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\PanelBonusPropertyView.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Bonnus\\PanelBonusPropertyView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:41:38.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PanelBonusPropertyController.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\PanelBonusPropertyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Bonnus\\PanelBonusPropertyController.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\PanelBonusPropertyController.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Bonnus\\PanelBonusPropertyController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:41:05.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Enemy\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Enemy\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Enemy\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Enemy\\EnemyController.cs",
+              "ViewState": "AQIAAFwBAAAAAAAAAAAAAPkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:05:44.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ViewBonus.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\ViewBonus.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Bonnus\\ViewBonus.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\ViewBonus.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Bonnus\\ViewBonus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T15:14:27.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BonusPanelController.cs",
+              "DocumentMoniker": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\BonusPanelController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Bonnus\\BonusPanelController.cs",
+              "ToolTip": "C:\\Users\\sasho\\OneDrive\\Desktop\\Unity\\Bad2Bad\\Assets\\Scriptes\\Bonnus\\BonusPanelController.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Bonnus\\BonusPanelController.cs",
+              "ViewState": "AQIAABUBAAAAAAAAAAAUwCABAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:57:11.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
